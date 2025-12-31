@@ -1,16 +1,33 @@
-# React + Vite
+🚀 WebAutomy
+Modern Digital Agency Platform
+WebAutomy is a high-performance, conversion-focused agency website designed to capture leads for web development and automation services. Built with a focus on "Creative Digital Experience," it features fluid page transitions, ambient audio, and a premium glassmorphism UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Key Features
+🎨 Creative UI/UX: Custom "Liquid Cursor" and Framer Motion page transitions.
 
-Currently, two official plugins are available:
+💎 Glassmorphism Design: Modern frosted glass cards and mesh gradient backgrounds.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎵 Ambient Audio Engine: Global background music with user-controlled mute toggle in the navbar.
 
-## React Compiler
+⚡ High Performance: Built on Vite + React for instant page loads.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📱 Fully Responsive: Mobile-first design with a custom animated hamburger menu.
 
-## Expanding the ESLint configuration
+🔋 Supabase Integration: Real-time lead capture directly to a SQL database (Serverless).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💬 WhatsApp Ready: "Click-to-Chat" integration for instant client communication.
+
+🛠️ Tech Stack
+Frontend: React.js 18
+
+Build Tool: Vite
+
+Styling: Tailwind CSS v4 (with @theme configuration)
+
+Animations: Framer Motion
+
+Icons: Lucide React
+
+Backend/DB: Supabase (PostgreSQL)
+
+Routing: React Router DOM v6
